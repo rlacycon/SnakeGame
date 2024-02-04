@@ -49,7 +49,7 @@ var snake = [
 
 // Size and color of the snake
 var segmentSize = 20; // size for each segment
-var snakeColor = "purple";
+var snakeColor = "green";
 
 // Define the snake direction
 var snakeDirection = 'right';
